@@ -1,0 +1,2 @@
+# Philosophy
+Project for philosophy.
